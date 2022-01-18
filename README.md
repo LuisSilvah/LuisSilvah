@@ -4,7 +4,7 @@ let LuisSilvah = {
   age = 16,
   country: 'Brasil',
   stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
-  interestdIn: ['Python','Django', 'Vue', 'Flutter', 'Swift'],
+  interestdIn: ['React Native', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
   hobbies: ['Chess', 'meet cool people'],
   language: ['Spanish', 'Ingles']
  };
