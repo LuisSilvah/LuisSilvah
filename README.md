@@ -3,9 +3,10 @@
 let LuisSilvah = {
   age = 16,
   country: 'Brasil',
-  stack: ['HTML', 'Javascript', 'React', 'Scss'],
-  interestdIn: ['Python','Django', 'Vue', 'Flutter', 'Swift', 'Bootstrap'],
-  hobbies: ['Chess', 'meet cool people']
+  stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
+  interestdIn: ['Python','Django', 'Vue', 'Flutter', 'Swift'],
+  hobbies: ['Chess', 'meet cool people'],
+  language: ['Spanish', 'Ingles']
  };
 ```
 <p>
