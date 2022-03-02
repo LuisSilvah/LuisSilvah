@@ -1,13 +1,13 @@
 ## Oiii! Eu sou a Luis Gustavo 
 ```ruby
-let LuisSilvah = {
-  age: 16,
+var LuisSilvah = [ {
+  age = 16,
   country: 'Brasil',
   stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
   interestdIn: ['React Native', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
   hobbies: ['Chess', 'meet cool people'],
   language: ['Spanish', 'Ingles']
- };
+  } ];
 ```
 <p>
 <a href="https://www.linkedin.com/in/luis-gustavo-4b35411ab/" rel="nofollow">
