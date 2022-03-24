@@ -22,7 +22,7 @@ var LuisSilvah = [ {
 </p>
 
 
-<a href="https://www.instagram.com/_luis.silvah/" rel="nofollow">
+<a href="https://www.github.com/LuisSilvah" rel="nofollow">
   <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=social&label=Follow&maxAge=2592000" style="max-width:100%;">
   </a>
 
