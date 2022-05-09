@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Luis Gustavo 
 ```ruby
 var LuisSilvah = [ {
-  age = 16,
+  age: 16,
   country: 'Brasil',
   stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
   interestdIn: ['React Native', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
