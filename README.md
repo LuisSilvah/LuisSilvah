@@ -6,7 +6,7 @@ var LuisSilvah = [ {
   stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
   interestdIn: ['React Native', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
   hobbies: ['Chess', 'meet cool people'],
-  language: ['Spanish', 'Ingles']
+  language: ['Spanish', 'English']
   } ];
 ```
 <p>
