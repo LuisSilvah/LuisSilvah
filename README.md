@@ -3,9 +3,9 @@
 var LuisSilvah = [ {
   age: 17,
   country: 'Brasil',
-  stack: ['HTML', 'Javascript', 'React', 'Scss', 'Bootstrap'],
-  interestdIn: ['React Native', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
-  hobbies: ['Chess', 'meet cool people'],
+  stack: ['HTML', 'Css', 'Javascript', 'Typescript', 'React', 'React Native', 'Scss', 'Bootstrap', 'Tailwindcss'],
+  interestdIn: ['Node', 'Express', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
+  hobbies: ['Chess', 'Meet cool people'],
   language: ['Spanish', 'English']
   } ];
 ```
