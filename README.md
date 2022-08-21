@@ -26,7 +26,7 @@ var LuisSilvah = [ {
   <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=social&label=Follow&maxAge=2592000" style="max-width:100%;">
   </a> 
   
-![](https://github.com/LuisSilvah/snk/raw/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake2.svg)
 
   ## :ledger: Meus projetos
 
