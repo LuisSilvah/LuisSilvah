@@ -36,13 +36,13 @@ var LuisSilvah = [ {
   <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=social&label=Follow&maxAge=2592000" style="max-width:100%;">
   </a> 
   
-![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake2.svg) -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/LuisSilvah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisSilvah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSilvah&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 
   ## :ledger: Meus projetos
 
