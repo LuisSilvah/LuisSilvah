@@ -13,8 +13,8 @@
 var LuisSilvah = [ {
   age: 17,
   country: 'Brasil',
-  stack: ['HTML', 'Css', 'Javascript', 'Typescript', 'React', 'React Native', 'Scss', 'Bootstrap', 'Tailwindcss'],
-  interestdIn: ['Node', 'Express', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
+  stack: ['HTML', 'Css', 'Javascript', 'Typescript', 'React', 'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 'Express', 'Sequelize', 'MySQL'],
+  interestdIn: ['Node', 'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift'],
   hobbies: ['Chess', 'Meet cool people'],
   language: ['Spanish', 'English']
   } ];
