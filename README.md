@@ -8,7 +8,7 @@
     webSite: https://luissilva.vercel.app/
    -->
 
-## Oiii! Eu sou a Luis Gustavo 
+## Oiii! Eu sou o Luis Gustavo 
 ```js
 var LuisSilvah = [ {
   age: 17,
