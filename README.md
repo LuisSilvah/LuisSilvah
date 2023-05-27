@@ -20,8 +20,7 @@ var LuisSilvah = [ {
   ],
   interestdIn: [
   'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP',
-  'vite', 'Java', 'Angular
-  '
+  'vite', 'Java', 'Angular'
   ],
   hobbies: ['Chess', 'Meet cool people'],
   language: ['Spanish', 'English']
