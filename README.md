@@ -18,7 +18,11 @@ var LuisSilvah = [ {
   'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 
   'Express', 'Sequelize', 'MySQL', 'NextJS'
   ],
-  interestdIn: ['Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP'],
+  interestdIn: [
+  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP',
+  'vite', 'Java', 'Angular
+  '
+  ],
   hobbies: ['Chess', 'Meet cool people'],
   language: ['Spanish', 'English']
   } ];
