@@ -36,12 +36,10 @@ var LuisSilvah = [ {
   <a  href="mailto:luisgsilva21@gmail.com" rel="nofollow" >
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</p>
-
-
-<a href="https://www.github.com/LuisSilvah" rel="nofollow">
-  <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=social&label=Follow&maxAge=2592000" style="max-width:100%;">
+  <a href="https://www.github.com/LuisSilvah" rel="nofollow">
+  <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=for-the-badge&logo=github&logoColor=white&label=Follow&maxAge=23333?" style="max-width:100%;">
   </a> 
+</p>
   
 ![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake.svg)
 
