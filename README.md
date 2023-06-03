@@ -11,7 +11,7 @@
 ## Oiii! Eu sou o Luis Gustavo 
 ```js
 var LuisSilvah = [ {
-  age: 17,
+  age: 18,
   country: 'Brasil',
   stack: [
   'HTML', 'Css', 'Javascript', 'Typescript', 'React', 
