@@ -10,21 +10,27 @@
 
 ## Oiii! Eu sou o Luis Gustavo 
 ```js
-var LuisSilvah = [ {
-  age: 18,
-  country: 'Brasil',
-  stack: [
+import Developer from 'LuisSilva';
+
+class AboutMe extends Developer {
+  name = 'Luis Gustavo';
+  age = '18';
+  country = 'Brazil';
+  interestdIn = [
+  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP',
+  'vite', 'Java', 'Angular'
+  ];
+  hobbies = ['Chess', 'Meet cool people'];
+  language = ['Spanish', 'English'];
+}
+
+class Skills extends Developer {
+    stack = [
   'HTML', 'Css', 'Javascript', 'Typescript', 'React', 
   'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 
   'Express', 'Sequelize', 'MySQL', 'NextJS'
-  ],
-  interestdIn: [
-  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP',
-  'vite', 'Java', 'Angular'
-  ],
-  hobbies: ['Chess', 'Meet cool people'],
-  language: ['Spanish', 'English']
-  } ];
+  ];
+}
 ```
 <p>
 <a href="https://www.linkedin.com/in/luis-gustavo-4b35411ab/" rel="nofollow">
@@ -43,39 +49,36 @@ var LuisSilvah = [ {
   
 ![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/LuisSilvah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisSilvah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSilvah&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisSilvah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/LuisSilvah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSilvah&theme=dracula&hide_langs_below=1" />
+</a>
+</div>
 
-<!-- [![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisSilvah)](https://github.com/LuisSilvah/github-readme-stats) -->
+  ## :briefcase: Experiência de trabalho
 
-  ## :ledger: Meus projetos
+  Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-Essas aplicações foram:
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://pt-br.selmi.com.br/assets/img/selmi-logo.svg"/>](https://www.selmi.com.br/)
 
-- Ótimo para melhorar minhas habilidades de codificação :muscle:;
-- Ótimo para experimentar novas tecnologias 🆕;
-- Ótimo para adicionar à minha carteira para impressionar meu próximo empregador/cliente :file_folder:;
-- Ótimo para usar como exemplos em tutoriais (artigos ou vídeos) :page_with_curl:;
-- Fácil de completar e também facilmente extensível com novos recursos :ok_hand:;
+**Estágiario T.I** \
+[**Selmi**](https://www.selmi.com.br/) • Full-time \
+Linguagens & Tecnologias: `PHP`, `MySQL`\
+Projetos em destaque: [Agendamento]()
+<br/>
 
-### Projects
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://www.selmi.com.br/)
+
+**Estágiario T.I** \
+[**Selmi**](https://www.agroib.vercel.app/) • Freelancer \
+Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`, ``\
+Projetos em destaque: [Agroib](https://www.agroib.vercel.app/)
+<br/>
 
 
-| Name                                                                              | Short Description                                          | Code  |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----- |
-| [Porfolio](https://luissilvah.vercel.app/)| My Portfolio              
-| [Card 3D](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Card-3D.md)| Card com efeito 3D                                         | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Card%203D) |
-| [Card hover effects](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Card-hover-effects.md)| Card com efeito hover                | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Card%20Hover%20Effects) |
-| [Product card](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Product-card.md)| Card produtos com efeito JS                      | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Product%20Card) |
-| [Nike shoes](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Nike-Shoes.md)| E-commerce Simple                                    | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Nike%20Shoes)   |
-| [Porsche page](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Porsche-page.md)| Simple Page Porsche                              | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Porsche-page) |
-| [Crud](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Crud.md)| Simple Crud js                                                   | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Crud) |
-| [Rubik cube](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Rubik-Cube.md)| Magic Cube                                           | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Rubik%20cube) |
-| [Weahter app](https://github.com/LuisSilvah/Mini-projetos/blob/main/Readme/Weather-app.md)| Weather App                                        | [Code](https://github.com/LuisSilvah/Mini-projetos/tree/main/Weather%20app) |
-| [Beauty Planner](https://github.com/LuisSilvah/Planner/blob/main/README.md)| Beauty Planner                                                    | [Code](https://github.com/LuisSilvah/Planner) |
-| [Clone Instagram](https://github.com/LuisSilvah/Clone-instagram/blob/main/README.md)| Clone Instagram                                          | [Code](https://github.com/LuisSilvah/Clone-instagram) |
-                         
+  
+
+
 
