@@ -73,7 +73,7 @@ Linguagens & Tecnologias: `PHP`, `MySQL`\
 Projetos em destaque: [Agendamento]()
 <br/>
 
-[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://agroib.vercel.ap/)
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://agroib.vercel.app/)
 
 **Estágiario T.I** \
 [**Agroib**](https://agroib.vercel.app/) • Freelancer \
