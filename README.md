@@ -52,9 +52,13 @@ class Skills extends Developer {
  <div align="center">
   <a href="https://github.com/LuisSilvah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisSilvah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <a href="https://github.com/LuisSilvah">
+  </a>
+</div>
+
+ <div align="center">
+  <a href="https://github.com/LuisSilvah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSilvah&theme=dracula&hide_langs_below=1" />
-</a>
+  </a>
 </div>
 
   ## :briefcase: Experiência de trabalho
