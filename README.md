@@ -76,7 +76,7 @@ Projetos em destaque: [Agendamento]()
 [<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://www.selmi.com.br/)
 
 **Estágiario T.I** \
-[**Selmi**](https://www.agroib.vercel.app/) • Freelancer \
+[**Agroib**](https://www.agroib.vercel.app/) • Freelancer \
 Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`, ``\
 Projetos em destaque: [Agroib](https://www.agroib.vercel.app/)
 <br/>
