@@ -73,12 +73,12 @@ Linguagens & Tecnologias: `PHP`, `MySQL`\
 Projetos em destaque: [Agendamento]()
 <br/>
 
-[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://www.selmi.com.br/)
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://agroib.vercel.ap/)
 
 **Estágiario T.I** \
-[**Agroib**](https://www.agroib.vercel.app/) • Freelancer \
+[**Agroib**](https://agroib.vercel.app/) • Freelancer \
 Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`, ``\
-Projetos em destaque: [Agroib](https://www.agroib.vercel.app/)
+Projetos em destaque: [Agroib](https://agroib.vercel.app/)
 <br/>
 
 
