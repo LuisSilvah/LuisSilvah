@@ -61,6 +61,7 @@ class Skills extends Developer {
   </a>
 </div>
 
+<!--
   ## :briefcase: Experiência de trabalho
 
   Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -81,7 +82,7 @@ Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`
 Projetos em destaque: [Agroib](https://agroib.vercel.app/)
 <br/>
 
-
+-->
   
 
 
