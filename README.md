@@ -17,7 +17,7 @@ class AboutMe extends Developer {
   age = '18';
   country = 'Brazil';
   interestdIn = [
-  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift', 'PHP',
+  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift',
   'vite', 'Java', 'Angular'
   ];
   hobbies = ['Chess', 'Meet cool people'];
@@ -28,7 +28,7 @@ class Skills extends Developer {
     stack = [
   'HTML', 'Css', 'Javascript', 'Typescript', 'React', 
   'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 
-  'Express', 'Sequelize', 'MySQL', 'NextJS'
+  'Express', 'Sequelize', 'MySQL', 'NextJS', 'PHP',
   ];
 }
 ```
