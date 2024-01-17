@@ -47,7 +47,9 @@ class Skills extends Developer {
   </a> 
 </p>
   
+<!--
 ![snake animation](https://github.com/LuisSilvah/LuisSilvah/blob/output/github-contribution-grid-snake.svg)
+-->
 
  <div align="center">
   <a href="https://github.com/LuisSilvah">
