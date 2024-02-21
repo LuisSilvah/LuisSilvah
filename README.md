@@ -14,11 +14,12 @@ import Developer from 'LuisSilva';
 
 class AboutMe extends Developer {
   name = 'Luis Gustavo';
-  age = '18';
+  age = '19';
   country = 'Brazil';
+  College = 'PUC Campinas Software Engineering'
   interestdIn = [
-  'Prisma', 'Python','Django', 'Vue', 'Flutter', 'Swift',
-  'vite', 'Java', 'Angular'
+  'Python','Django', 'Vue', 'Flutter', 'Swift',
+  'Java', 'Angular', 'Oracle'
   ];
   hobbies = ['Chess', 'Meet cool people'];
   language = ['Spanish', 'English'];
@@ -28,7 +29,7 @@ class Skills extends Developer {
     stack = [
   'HTML', 'Css', 'Javascript', 'Typescript', 'React', 
   'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 
-  'Express', 'Sequelize', 'MySQL', 'NextJS', 'PHP',
+  'Express', 'Sequelize', 'MySQL', 'PostgreSQL', 'NextJS', 'PHP', 'Prisma',
   ];
 }
 ```
@@ -60,28 +61,30 @@ class Skills extends Developer {
   </a>
 </div>
 
-<!--
+
   ## :briefcase: Experiência de trabalho
 
   Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://pt-br.selmi.com.br/assets/img/selmi-logo.svg"/>](https://www.selmi.com.br/)
+[<img align="left" height="94px" width="130px" alt="Warpnet" src="https://pt-br.selmi.com.br/assets/img/selmi-logo.svg"/>](https://www.selmi.com.br/)
 
 **Estágiario T.I** \
-[**Selmi**](https://www.selmi.com.br/) • Full-time \
+[**Selmi**](https://www.selmi.com.br/) • 10/ Jan /2023 - 20/ Dez /2023 \
 Linguagens & Tecnologias: `PHP`, `MySQL`\
-Projetos em destaque: [Agendamento]()
+Projetos em destaque: [Agendamento]() \
 <br/>
 
-[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://agroib.vercel.app/static/media/Logo_complete.4c18c653cabbade15f17.png"/>](https://agroib.vercel.app/)
+<hr />
 
-**Estágiario T.I** \
-[**Agroib**](https://agroib.vercel.app/) • Freelancer \
-Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`, ``\
-Projetos em destaque: [Agroib](https://agroib.vercel.app/)
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/73b492c1-1b9c-4f81-a8e8-65a50cb3f425"/>](https://agroib.proceshub.com/)
+
+**Desenvolvedor** \
+[**Agroib**](https://agroib.proceshub.com/) • Freelancer OUT / 2022 \
+Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`\
+Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 <br/>
 
--->
+
   
 
 
