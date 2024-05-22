@@ -84,6 +84,16 @@ Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`
 Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 <br/>
 
+<hr/>
+
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/f0cb7659-66a7-42e5-9943-8e4438e6c209"/>](https://instituto.proceshub.com/)
+
+**Desenvolvedor** \
+[**Instituto Biológico**](https://instituto.proceshub.com/) • Freelancer OUT / 2024 \
+Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`\
+Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
+<br/>
+
 
   
 
