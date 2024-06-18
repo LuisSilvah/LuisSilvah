@@ -18,8 +18,8 @@ class AboutMe extends Developer {
   country = 'Brazil';
   College = 'PUC Campinas Software Engineering'
   interestdIn = [
-  'Python','Django', 'Vue', 'Flutter', 'Swift',
-  'Java', 'Angular', 'Oracle'
+  'Django', 'Vue', 'Flutter', 'Swift',
+  'Java', 'Angular', 'Jupyter', 'Kotlin', 'Ruby'
   ];
   hobbies = ['Chess', 'Meet cool people'];
   language = ['Spanish', 'English'];
@@ -27,8 +27,8 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
     stack = [
-  'HTML', 'Css', 'Javascript', 'Typescript', 'React', 
-  'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 
+  'HTML', 'Css', 'Javascript', 'Typescript', 'React', 'Python',
+  'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 'Oracle',
   'Express', 'Sequelize', 'MySQL', 'PostgreSQL', 'NextJS', 'PHP', 'Prisma',
   ];
 }
@@ -78,7 +78,7 @@ Projetos em destaque: [Agendamento]() \
 
 [<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/73b492c1-1b9c-4f81-a8e8-65a50cb3f425"/>](https://agroib.proceshub.com/)
 
-**Desenvolvedor** \
+**Desenvolvedor Fullstack** \
 [**Agroib**](https://agroib.proceshub.com/) • Freelancer OUT / 2022 \
 Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`\
 Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
@@ -88,7 +88,7 @@ Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 
 [<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/f0cb7659-66a7-42e5-9943-8e4438e6c209"/>](https://instituto.proceshub.com/)
 
-**Desenvolvedor** \
+**Desenvolvedor Fullstack** \
 [**Instituto Biológico**](https://instituto.proceshub.com/) • Freelancer OUT / 2024 \
 Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`\
 Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
