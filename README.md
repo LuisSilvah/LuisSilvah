@@ -24,54 +24,60 @@ class AboutMe extends Developer {
   hobbies = ['Chess', 'Meet cool people'];
   language = ['Spanish', 'English'];
 }
-
-class Skills extends Developer {
-    stack = [
-  'HTML', 'Css', 'Javascript', 'Typescript', 'React', 'Python',
-  'React Native', 'Scss', 'Bootstrap', 'Tailwindcss', 'Node', 'Oracle',
-  'Express', 'Sequelize', 'MySQL', 'PostgreSQL', 'NextJS', 'PHP', 'Prisma',
-  ];
-}
 ```
 <p>
+
+## Minhas Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<hr />
+  
 <a href="https://www.linkedin.com/in/luis-gustavo-4b35411ab/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
-  </a>
+</a>
+  
 <a href="https://www.instagram.com/_luis.silvah/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
-  </a>
-  <a  href="mailto:luisgsilva21@gmail.com" rel="nofollow" >
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.github.com/LuisSilvah" rel="nofollow">
+</a>
+
+<a  href="mailto:luisgsilva21@gmail.com" rel="nofollow" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<a href="https://www.github.com/LuisSilvah" rel="nofollow">
   <img src="https://img.shields.io/github/followers/LuisSilvah.svg?style=for-the-badge&logo=github&logoColor=white&label=Follow&maxAge=23333?" style="max-width:100%;">
-  </a> 
+</a> 
 </p>
-  
-
- <div align="center">
-  <a href="https://github.com/LuisSilvah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisSilvah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
- <div align="center">
-  <a href="https://github.com/LuisSilvah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSilvah&theme=dracula&hide_langs_below=1" />
-  </a>
-</div>
-
 
   ## :briefcase: Experiência de trabalho
 
   Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="130px" alt="Warpnet" src="https://pt-br.selmi.com.br/assets/img/selmi-logo.svg"/>](https://www.selmi.com.br/)
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/def7f1f1-0bae-4d8a-8564-3bdcff22fbe8"/>]()
 
-**Estágiario T.I** \
-[**Selmi**](https://www.selmi.com.br/) • 10/ Jan /2023 - 20/ Dez /2023 \
-Linguagens & Tecnologias: `PHP`, `MySQL`\
-Projetos em destaque: [Agendamento]() \
+**Co-Founder & CEO** \
+[**ProcessHub**]() • Co-Founder & CEO \
+Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`, `Python`\
+Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biológico](https://instituto.proceshub.com/)
 <br/>
 
 <hr />
@@ -93,6 +99,22 @@ Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`\
 Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
 <br/>
+
+<hr/>
+
+[<img align="left" height="94px" width="130px" alt="Warpnet" src="https://pt-br.selmi.com.br/assets/img/selmi-logo.svg"/>](https://www.selmi.com.br/)
+
+**Estágiario T.I** \
+[**Selmi**](https://www.selmi.com.br/) • 10/ Jan /2023 - 20/ Dez /2023 \
+Linguagens & Tecnologias: `PHP`, `MySQL`\
+Projetos em destaque: [Agendamento]() \
+<br/>
+
+
+
+
+
+
 
 
   
