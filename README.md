@@ -76,28 +76,38 @@ class AboutMe extends Developer {
 
 **Co-Founder & CEO** \
 [**ProcessHub**]() • Co-Founder & CEO \
-Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`, `Python`\
+Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma` `Python`\
 Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biológico](https://instituto.proceshub.com/)
 <br/>
 
 <hr />
 
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/73b492c1-1b9c-4f81-a8e8-65a50cb3f425"/>](https://agroib.proceshub.com/)
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/5a70bbdc-5109-4bce-a302-1f03499be6c0"/>]()
 
-**Desenvolvedor Fullstack** \
-[**Agroib**](https://agroib.proceshub.com/) • Freelancer OUT / 2022 \
-Linguagens & Tecnologias: `React`, `MySQL`, `NodeJs`, `Sequelize`, `TailwindCss`\
-Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
+**Desenvolvedor Frontend** \
+[**Agronómico**]() • Freelancer OUT / 2024 \
+Linguagens & Tecnologias: `React` `TailwindCss` `ArcGIS`\
+Projetos em destaque: [Agronómico]() \
 <br/>
 
-<hr/>
+<hr />
 
 [<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/f0cb7659-66a7-42e5-9943-8e4438e6c209"/>](https://instituto.proceshub.com/)
 
 **Desenvolvedor Fullstack** \
 [**Instituto Biológico**](https://instituto.proceshub.com/) • Freelancer OUT / 2024 \
-Linguagens & Tecnologias: `React`, `MySQL`, `NestJs`, `Prisma`, `TailwindCss`\
+Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma`\
 Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
+<br/>
+
+<hr/>
+
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/LuisSilvah/LuisSilvah/assets/79490427/73b492c1-1b9c-4f81-a8e8-65a50cb3f425"/>](https://agroib.proceshub.com/)
+
+**Desenvolvedor Fullstack** \
+[**Agroib**](https://agroib.proceshub.com/) • Freelancer OUT / 2022 \
+Linguagens & Tecnologias: `React` `TailwindCss` `NodeJs` `Sequelize` `MySQL`\
+Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 <br/>
 
 <hr/>
@@ -106,7 +116,7 @@ Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
 
 **Estágiario T.I** \
 [**Selmi**](https://www.selmi.com.br/) • 10/ Jan /2023 - 20/ Dez /2023 \
-Linguagens & Tecnologias: `PHP`, `MySQL`\
+Linguagens & Tecnologias: `PHP` `MySQL`\
 Projetos em destaque: [Agendamento]() \
 <br/>
 
