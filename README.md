@@ -14,7 +14,7 @@ import Developer from 'LuisSilva';
 
 class AboutMe extends Developer {
   name = 'Luis Gustavo';
-  age = '19';
+  age = '20';
   country = 'Brazil';
   College = 'PUC Campinas Software Engineering'
   interestdIn = [
@@ -42,6 +42,7 @@ class AboutMe extends Developer {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-6B47D2?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **DevOps**
 
@@ -76,8 +77,8 @@ class AboutMe extends Developer {
 
 **Co-Founder & CEO** \
 [**ProcessHub**]() • Co-Founder & CEO \
-Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma` `Python`\
-Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biológico](https://instituto.proceshub.com/)
+Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma` `Python` `Java`\
+Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biológico](https://instituto.proceshub.com/) | [Agendamento Selmi](https://www.selmi.com.br/)
 <br/>
 
 <hr />
@@ -86,7 +87,7 @@ Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biol�
 
 **Desenvolvedor Frontend** \
 [**Agronómico**]() • Freelancer OUT / 2024 \
-Linguagens & Tecnologias: `React` `TailwindCss` `ArcGIS`\
+Linguagens & Tecnologias: `React` `TailwindCss` `ArcGIS` `Java` `PostgresSql`\
 Projetos em destaque: [Agronómico]() \
 <br/>
 
@@ -96,7 +97,7 @@ Projetos em destaque: [Agronómico]() \
 
 **Desenvolvedor Fullstack** \
 [**Instituto Biológico**](https://instituto.proceshub.com/) • Freelancer OUT / 2024 \
-Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma`\
+Linguagens & Tecnologias: `React` `TailwindCss` `NestJs` `Prisma` `MySql`\
 Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
 <br/>
 
@@ -106,7 +107,7 @@ Projetos em destaque: [Instituto Biológico](https://instituto.proceshub.com/) \
 
 **Desenvolvedor Fullstack** \
 [**Agroib**](https://agroib.proceshub.com/) • Freelancer OUT / 2022 \
-Linguagens & Tecnologias: `React` `TailwindCss` `NodeJs` `Sequelize` `MySQL`\
+Linguagens & Tecnologias: `React` `TailwindCss` `NodeJs` `Sequelize` `MySQL`, `Python`\
 Projetos em destaque: [Agroib](https://agroib.proceshub.com/) \
 <br/>
 
