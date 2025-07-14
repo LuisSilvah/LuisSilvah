@@ -87,7 +87,7 @@ Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biol�
 
 **Desenvolvedor Frontend** \
 [**Agronómico**]() • Freelancer OUT / 2024 \
-Linguagens & Tecnologias: `React` `TailwindCss` `ArcGIS` `Java` `PostgresSql`\
+Linguagens & Tecnologias: `React` `TailwindCss` `ArcGIS` `Java` `PostgreSql`\
 Projetos em destaque: [Agronómico]() \
 <br/>
 
