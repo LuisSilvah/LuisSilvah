@@ -14,7 +14,7 @@ import Developer from 'LuisSilva';
 
 class AboutMe extends Developer {
   name = 'Luis Gustavo';
-  age = '20';
+  age = '21';
   country = 'Brazil';
   College = 'PUC Campinas Software Engineering'
   interestdIn = [
