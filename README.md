@@ -83,7 +83,7 @@ Projetos em destaque: [Agroib](https://agroib.proceshub.com/) | [Instituto Biol�
 
 <hr />
 
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/5a70bbdc-5109-4bce-a302-1f03499be6c0"/>]()
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/74bd4a7e-a177-47d8-bfca-4d0db4d107b2"/>]()
 
 **Desenvolvedor Frontend** \
 [**Agronómico**]() • Freelancer OUT / 2024 \
